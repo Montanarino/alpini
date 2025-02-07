@@ -1,0 +1,28 @@
+.bebas-neue-regular{
+  font-family: "Bebas Neue", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 30px;
+}
+
+.rosso{
+	background-color: #bd2027;
+	color: #fff;
+}
+
+.verde{
+	background-color: #1c743a;
+}
+
+.bordotesto{
+	text-shadow: 2px 0 #000, -2px 0 #000, 0 2px #000, 0 -2px #000, 1px 1px #000, -1px -1px #000, 1px -1px #000, -1px 1px #000;
+}
+
+.bordobox{
+	box-shadow: 2px 0px 5px
+}
+
+.link{
+	text-decoration: none;
+	color: #fff;
+}
